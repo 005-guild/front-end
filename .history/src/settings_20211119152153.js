@@ -1,16 +1,16 @@
 module.exports = {
 
-  title: '小区物业管理系统',
+  title: 'Vue Admin Template',
 
   /**
    * @type {boolean} true | false
    * @description Whether fix the header
    */
-  fixedHeader: true,
+  fixedHeader: false,
 
   /**
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar
    */
-  sidebarLogo: true
+  sidebarLogo: false
 }
